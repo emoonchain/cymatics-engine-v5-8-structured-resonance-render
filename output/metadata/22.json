@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #22",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/22.svg",
+  "external_url": "https://example.com",
+  "seed": 2895025207,
+  "frequency": 769,
+  "modeN": 5,
+  "modeM": 6,
+  "secondaryModeN": 1,
+  "secondaryModeM": 9,
+  "presetId": "fractured-harmonic",
+  "presetName": "Fractured Harmonic",
+  "palette": "Ember Orchid",
+  "colorway": "Ember Orchid",
+  "colorVariant": "Ember Orchid",
+  "colorMutation": "Standard",
+  "patternFamily": "Asymmetric Scar",
+  "waveDistortion": "Fracture Shear",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Scar Lattice",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Iron Plate",
+  "resonanceType": "Asymmetric Scar",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 48,
+  "symmetryScore": 94,
+  "nodeDensity": 0.2467,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "769 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 6
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 6"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "1 x 9"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "fractured-harmonic"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Fractured Harmonic"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Asymmetric Scar"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Orbital Mesh"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Ember Orchid"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Ember Orchid"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Fracture Shear"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Scar Lattice"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Asymmetric Scar"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Iron Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 48,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 94,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2467,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:22",
+    "seed_number": 2895025207,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "fractured-harmonic",
+    "color_mutation": "Standard",
+    "color_variant": "Ember Orchid",
+    "pattern_family": "Asymmetric Scar",
+    "wave_distortion": "Fracture Shear",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Scar Lattice",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

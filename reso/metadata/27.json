@@ -1,0 +1,37 @@
+{
+  "name": "Classic NODE #27",
+  "description": "Classic cymatics NFT with randomized readable frequency mapping from 20 Hz to 2222 Hz and unique gradient background.",
+  "image": "ipfs://QmU5FDkocakxcEKyGiZRaog1FhHvxkPTESAyVemhV8Sas8/27.png",
+  "frequency": 1024,
+  "modeN": 3,
+  "modeM": 6,
+  "patternName": "Golden Loop Cells",
+  "family": "Branch Web",
+  "backgroundGradient": "Frozen Pulse",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "1024 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "3 x 6"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Golden Loop Cells"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Branch Web"
+    },
+    {
+      "trait_type": "Background Gradient",
+      "value": "Frozen Pulse"
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Classic Plate Gradient"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 945 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/945.svg",
+  "frequency": 945,
+  "modeN": 8,
+  "modeM": 10,
+  "patternName": "Signal Crown",
+  "family": "Diamond Grid",
+  "nodeDensity": 0.2057,
+  "nodeDensityBps": 2057,
+  "lineThickness": 0.89,
+  "lineThicknessBps": 89,
+  "rarityTier": 2,
+  "rarityName": "Rare",
+  "radialMix": 0.1043,
+  "threshold": 0.0869,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "945 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "8×10"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 8
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 10
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Signal Crown"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Diamond Grid"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2057
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 2057
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 0.89
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 89
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.104
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.087
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}

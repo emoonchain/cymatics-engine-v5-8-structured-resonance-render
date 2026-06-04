@@ -1,0 +1,117 @@
+{
+  "name": "Chladni Node #36",
+  "description": "A frequency-born Chladni Node from the Resonance Genesis collection. Generated from cymatics-inspired resonance math, nodal sand fields, mode geometry, and deterministic on-chain mining traits.",
+  "image": "ipfs://CLASSIC_IMAGE_CID/36.svg",
+  "tokenId": 36,
+  "frequency": 713,
+  "modeN": 6,
+  "modeM": 7,
+  "patternName": "Signal Mirror Circle Lattice",
+  "family": "Circle Lattice",
+  "backgroundGradient": "Signal Honey",
+  "nodeDensity": 0.1426,
+  "nodeDensityBps": 1426,
+  "lineThickness": 1.07,
+  "lineThicknessBps": 107,
+  "rarityTier": 1,
+  "rarityName": "Uncommon",
+  "frequencyBand": "Upper Harmonic",
+  "symmetryType": "Near Mirror",
+  "nodeArchitecture": "Mesh Node",
+  "waveDistortion": "Signal Warp",
+  "harmonicLayerCount": 4,
+  "radialMix": 0.146,
+  "threshold": 0.0913,
+  "hashratePreview": 10800,
+  "renderer": "classic-chladni-physics-v2",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "713 Hz"
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "Upper Harmonic"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "6 x 7"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 6
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 7
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Signal Mirror Circle Lattice"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Circle Lattice"
+    },
+    {
+      "trait_type": "Background Gradient",
+      "value": "Signal Honey"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1426
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1426
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.07
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 107
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 1
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Near Mirror"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Mesh Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Signal Warp"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 4
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.146
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.0913
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 10800
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Classic Chladni Physics"
+    }
+  ]
+}

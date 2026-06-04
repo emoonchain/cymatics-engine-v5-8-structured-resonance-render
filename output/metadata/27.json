@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #27",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/27.svg",
+  "external_url": "https://example.com",
+  "seed": 2811137112,
+  "frequency": 470,
+  "modeN": 5,
+  "modeM": 6,
+  "secondaryModeN": 3,
+  "secondaryModeM": 12,
+  "presetId": "void-resonance",
+  "presetName": "Void Resonance",
+  "palette": "Solaris Bloom",
+  "colorway": "Solaris Bloom",
+  "colorVariant": "Solaris Bloom",
+  "colorMutation": "Standard",
+  "patternFamily": "Dark Lattice",
+  "waveDistortion": "Mirror Tension",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Dense Lattice",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Iron Plate",
+  "resonanceType": "Dark Lattice",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 53,
+  "symmetryScore": 95,
+  "nodeDensity": 0.2795,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "470 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 6
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 6"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "3 x 12"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "void-resonance"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Void Resonance"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Dark Lattice"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Petal Grid"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Solaris Bloom"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Solaris Bloom"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Mirror Tension"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Dense Lattice"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Dark Lattice"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Iron Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 53,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 95,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2795,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:27",
+    "seed_number": 2811137112,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "void-resonance",
+    "color_mutation": "Standard",
+    "color_variant": "Solaris Bloom",
+    "pattern_family": "Dark Lattice",
+    "wave_distortion": "Mirror Tension",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Dense Lattice",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

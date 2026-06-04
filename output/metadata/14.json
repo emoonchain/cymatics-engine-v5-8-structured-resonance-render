@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #14",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/14.svg",
+  "external_url": "https://example.com",
+  "seed": 412187858,
+  "frequency": 192,
+  "modeN": 2,
+  "modeM": 3,
+  "secondaryModeN": 4,
+  "secondaryModeM": 1,
+  "presetId": "bass-bloom",
+  "presetName": "Bass Bloom",
+  "palette": "Solaris Bloom",
+  "colorway": "Solaris Bloom",
+  "colorVariant": "Solaris Bloom",
+  "colorMutation": "Standard",
+  "patternFamily": "Low Ring",
+  "waveDistortion": "Radial Drift",
+  "symmetryType": "Radial Symmetry",
+  "nodeArchitecture": "Orbital Bloom",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Titanium Plate",
+  "resonanceType": "Low Ring",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 43,
+  "symmetryScore": 95,
+  "nodeDensity": 0.3481,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "192 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 2
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 3
+    },
+    {
+      "trait_type": "Mode",
+      "value": "2 x 3"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "4 x 1"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "bass-bloom"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Bass Bloom"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Low Ring"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Cross Bloom"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Solaris Bloom"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Solaris Bloom"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Radial Drift"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Radial Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Orbital Bloom"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Low Ring"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Titanium Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 43,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 95,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.3481,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:14",
+    "seed_number": 412187858,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "bass-bloom",
+    "color_mutation": "Standard",
+    "color_variant": "Solaris Bloom",
+    "pattern_family": "Low Ring",
+    "wave_distortion": "Radial Drift",
+    "symmetry_type": "Radial Symmetry",
+    "node_architecture": "Orbital Bloom",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

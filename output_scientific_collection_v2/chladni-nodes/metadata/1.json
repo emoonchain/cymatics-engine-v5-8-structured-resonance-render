@@ -1,0 +1,113 @@
+{
+  "name": "Chladni Node #1",
+  "description": "A scientific Chladni Node from the Resonance Genesis collection. Generated from deterministic plate resonance math, nodal line detection, palette-driven scientific rendering, and on-chain mining traits.",
+  "image": "ipfs://SCIENTIFIC_IMAGE_CID/1.svg",
+  "tokenId": 1,
+  "frequency": 888,
+  "waveNumberK": 21.293,
+  "modeN": 14,
+  "modeM": 16,
+  "patternName": "Dense Bridge Bridge Lattice",
+  "family": "Bridge Lattice",
+  "colorway": "Violet Resonance",
+  "colorwayId": "violet-resonance",
+  "nodeDensity": 0.28,
+  "nodeDensityBps": 2800,
+  "lineThickness": 1.07,
+  "lineThicknessBps": 107,
+  "rarityTier": 2,
+  "rarityName": "Rare",
+  "frequencyBand": "Dense Signal",
+  "symmetryType": "Bridge Symmetry",
+  "nodeArchitecture": "Dense Node",
+  "waveDistortion": "Soft Phase",
+  "harmonicLayerCount": 6,
+  "hashratePreview": 31750,
+  "renderer": "scientific-chladni-node-v3",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "888 Hz"
+    },
+    {
+      "trait_type": "Wave Number K",
+      "value": 21.293
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "Dense Signal"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "14 x 16"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 14
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 16
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dense Bridge Bridge Lattice"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Bridge Lattice"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Violet Resonance"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.28
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 2800
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.07
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 107
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 2
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Bridge Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Dense Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Soft Phase"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 31750
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Scientific Chladni Color"
+    }
+  ]
+}

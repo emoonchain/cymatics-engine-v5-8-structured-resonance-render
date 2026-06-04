@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 690 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/690.svg",
+  "frequency": 690,
+  "modeN": 6,
+  "modeM": 8,
+  "patternName": "Node Node 690",
+  "family": "Bridge Mesh",
+  "nodeDensity": 0.1455,
+  "nodeDensityBps": 1455,
+  "lineThickness": 1.04,
+  "lineThicknessBps": 104,
+  "rarityTier": 3,
+  "rarityName": "Epic",
+  "radialMix": 0.1286,
+  "threshold": 0.0958,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "690 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "6×8"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 6
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 8
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Node Node 690"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Bridge Mesh"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1455
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1455
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.04
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 104
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.129
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.096
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}

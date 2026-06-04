@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #15",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/15.svg",
+  "external_url": "https://example.com",
+  "seed": 428965477,
+  "frequency": 736,
+  "modeN": 5,
+  "modeM": 7,
+  "secondaryModeN": 1,
+  "secondaryModeM": 10,
+  "presetId": "fractured-harmonic",
+  "presetName": "Fractured Harmonic",
+  "palette": "Aurora Forge",
+  "colorway": "Aurora Forge",
+  "colorVariant": "Aurora Forge",
+  "colorMutation": "Standard",
+  "patternFamily": "Fracture Web",
+  "waveDistortion": "Angular Warp",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Scar Lattice",
+  "harmonicLayerCount": 5,
+  "plateMaterial": "Iron Plate",
+  "resonanceType": "Fracture Web",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 46,
+  "symmetryScore": 95,
+  "nodeDensity": 0.2183,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "736 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 7
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 7"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "1 x 10"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "fractured-harmonic"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Fractured Harmonic"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Fracture Web"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Orbital Mesh"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Aurora Forge"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Aurora Forge"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Angular Warp"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Scar Lattice"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Fracture Web"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Iron Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 46,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 95,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2183,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:15",
+    "seed_number": 428965477,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "fractured-harmonic",
+    "color_mutation": "Standard",
+    "color_variant": "Aurora Forge",
+    "pattern_family": "Fracture Web",
+    "wave_distortion": "Angular Warp",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Scar Lattice",
+    "harmonic_layer_count": 5,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

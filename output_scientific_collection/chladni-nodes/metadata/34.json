@@ -1,0 +1,107 @@
+{
+  "name": "Chladni Node #34",
+  "description": "A scientific Chladni Node from the Resonance Genesis collection. Generated from deterministic eigenmode-inspired plate resonance math, nodal line detection, and on-chain mining traits.",
+  "image": "ipfs://SCIENTIFIC_IMAGE_CID/34.svg",
+  "tokenId": 34,
+  "frequency": 135,
+  "waveNumberK": 7.4,
+  "modeN": 2,
+  "modeM": 7,
+  "patternName": "K12 Fundamental Cross",
+  "family": "Fundamental Cross",
+  "nodeDensity": 0.0741,
+  "nodeDensityBps": 741,
+  "lineThickness": 1.22,
+  "lineThicknessBps": 122,
+  "rarityTier": 2,
+  "rarityName": "Rare",
+  "frequencyBand": "Low Harmonic",
+  "symmetryType": "Drift Symmetry",
+  "nodeArchitecture": "Open Node",
+  "waveDistortion": "Low Drift",
+  "harmonicLayerCount": 3,
+  "hashratePreview": 7580,
+  "renderer": "scientific-chladni-node-v1",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "135 Hz"
+    },
+    {
+      "trait_type": "Wave Number K",
+      "value": 7.4
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "Low Harmonic"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "2 x 7"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 2
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 7
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "K12 Fundamental Cross"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Fundamental Cross"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.0741
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 741
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.22
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 122
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 2
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Drift Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Open Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Low Drift"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 3
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 7580
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Scientific Chladni"
+    }
+  ]
+}

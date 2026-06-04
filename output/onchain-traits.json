@@ -1,0 +1,506 @@
+{
+  "tokenIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "traits": [
+    {
+      "frequency": 1515,
+      "modeN": 7,
+      "modeM": 7,
+      "nodeDensityBps": 1542,
+      "lineThicknessBps": 110,
+      "rarityTier": 3,
+      "initialized": true
+    },
+    {
+      "frequency": 993,
+      "modeN": 5,
+      "modeM": 6,
+      "nodeDensityBps": 1127,
+      "lineThicknessBps": 118,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1660,
+      "modeN": 6,
+      "modeM": 8,
+      "nodeDensityBps": 1437,
+      "lineThicknessBps": 103,
+      "rarityTier": 3,
+      "initialized": true
+    },
+    {
+      "frequency": 552,
+      "modeN": 2,
+      "modeM": 3,
+      "nodeDensityBps": 813,
+      "lineThicknessBps": 131,
+      "rarityTier": 4,
+      "initialized": true
+    },
+    {
+      "frequency": 1467,
+      "modeN": 6,
+      "modeM": 6,
+      "nodeDensityBps": 1310,
+      "lineThicknessBps": 110,
+      "rarityTier": 0,
+      "initialized": true
+    },
+    {
+      "frequency": 339,
+      "modeN": 2,
+      "modeM": 2,
+      "nodeDensityBps": 785,
+      "lineThicknessBps": 136,
+      "rarityTier": 3,
+      "initialized": true
+    },
+    {
+      "frequency": 1952,
+      "modeN": 6,
+      "modeM": 9,
+      "nodeDensityBps": 1612,
+      "lineThicknessBps": 9800,
+      "rarityTier": 0,
+      "initialized": true
+    },
+    {
+      "frequency": 1986,
+      "modeN": 7,
+      "modeM": 9,
+      "nodeDensityBps": 1731,
+      "lineThicknessBps": 9700,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1220,
+      "modeN": 4,
+      "modeM": 6,
+      "nodeDensityBps": 1097,
+      "lineThicknessBps": 112,
+      "rarityTier": 0,
+      "initialized": true
+    },
+    {
+      "frequency": 530,
+      "modeN": 4,
+      "modeM": 3,
+      "nodeDensityBps": 885,
+      "lineThicknessBps": 130,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 603,
+      "modeN": 3,
+      "modeM": 4,
+      "nodeDensityBps": 914,
+      "lineThicknessBps": 127,
+      "rarityTier": 4,
+      "initialized": true
+    },
+    {
+      "frequency": 1606,
+      "modeN": 7,
+      "modeM": 8,
+      "nodeDensityBps": 1626,
+      "lineThicknessBps": 106,
+      "rarityTier": 1,
+      "initialized": true
+    },
+    {
+      "frequency": 606,
+      "modeN": 4,
+      "modeM": 4,
+      "nodeDensityBps": 953,
+      "lineThicknessBps": 128,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1158,
+      "modeN": 5,
+      "modeM": 6,
+      "nodeDensityBps": 1194,
+      "lineThicknessBps": 116,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1281,
+      "modeN": 5,
+      "modeM": 7,
+      "nodeDensityBps": 1246,
+      "lineThicknessBps": 114,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 744,
+      "modeN": 3,
+      "modeM": 5,
+      "nodeDensityBps": 960,
+      "lineThicknessBps": 126,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1265,
+      "modeN": 5,
+      "modeM": 7,
+      "nodeDensityBps": 1267,
+      "lineThicknessBps": 113,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 578,
+      "modeN": 3,
+      "modeM": 4,
+      "nodeDensityBps": 919,
+      "lineThicknessBps": 130,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1550,
+      "modeN": 6,
+      "modeM": 8,
+      "nodeDensityBps": 1489,
+      "lineThicknessBps": 108,
+      "rarityTier": 1,
+      "initialized": true
+    },
+    {
+      "frequency": 1682,
+      "modeN": 6,
+      "modeM": 9,
+      "nodeDensityBps": 1636,
+      "lineThicknessBps": 103,
+      "rarityTier": 1,
+      "initialized": true
+    },
+    {
+      "frequency": 1697,
+      "modeN": 6,
+      "modeM": 7,
+      "nodeDensityBps": 1387,
+      "lineThicknessBps": 102,
+      "rarityTier": 0,
+      "initialized": true
+    },
+    {
+      "frequency": 621,
+      "modeN": 3,
+      "modeM": 4,
+      "nodeDensityBps": 871,
+      "lineThicknessBps": 130,
+      "rarityTier": 0,
+      "initialized": true
+    },
+    {
+      "frequency": 2056,
+      "modeN": 7,
+      "modeM": 9,
+      "nodeDensityBps": 1788,
+      "lineThicknessBps": 9400,
+      "rarityTier": 3,
+      "initialized": true
+    },
+    {
+      "frequency": 1845,
+      "modeN": 7,
+      "modeM": 9,
+      "nodeDensityBps": 1745,
+      "lineThicknessBps": 103,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1521,
+      "modeN": 6,
+      "modeM": 6,
+      "nodeDensityBps": 1250,
+      "lineThicknessBps": 106,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 2173,
+      "modeN": 8,
+      "modeM": 9,
+      "nodeDensityBps": 1912,
+      "lineThicknessBps": 9300,
+      "rarityTier": 1,
+      "initialized": true
+    },
+    {
+      "frequency": 1024,
+      "modeN": 3,
+      "modeM": 6,
+      "nodeDensityBps": 933,
+      "lineThicknessBps": 119,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 866,
+      "modeN": 5,
+      "modeM": 5,
+      "nodeDensityBps": 1074,
+      "lineThicknessBps": 122,
+      "rarityTier": 3,
+      "initialized": true
+    },
+    {
+      "frequency": 1748,
+      "modeN": 6,
+      "modeM": 9,
+      "nodeDensityBps": 1641,
+      "lineThicknessBps": 100,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1420,
+      "modeN": 5,
+      "modeM": 7,
+      "nodeDensityBps": 1300,
+      "lineThicknessBps": 112,
+      "rarityTier": 0,
+      "initialized": true
+    },
+    {
+      "frequency": 773,
+      "modeN": 3,
+      "modeM": 5,
+      "nodeDensityBps": 884,
+      "lineThicknessBps": 126,
+      "rarityTier": 5,
+      "initialized": true
+    },
+    {
+      "frequency": 1554,
+      "modeN": 7,
+      "modeM": 7,
+      "nodeDensityBps": 1535,
+      "lineThicknessBps": 108,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1347,
+      "modeN": 5,
+      "modeM": 6,
+      "nodeDensityBps": 1171,
+      "lineThicknessBps": 110,
+      "rarityTier": 1,
+      "initialized": true
+    },
+    {
+      "frequency": 237,
+      "modeN": 2,
+      "modeM": 3,
+      "nodeDensityBps": 778,
+      "lineThicknessBps": 137,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1432,
+      "modeN": 6,
+      "modeM": 7,
+      "nodeDensityBps": 1379,
+      "lineThicknessBps": 112,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1683,
+      "modeN": 6,
+      "modeM": 8,
+      "nodeDensityBps": 1551,
+      "lineThicknessBps": 103,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1521,
+      "modeN": 6,
+      "modeM": 7,
+      "nodeDensityBps": 1358,
+      "lineThicknessBps": 110,
+      "rarityTier": 3,
+      "initialized": true
+    },
+    {
+      "frequency": 1270,
+      "modeN": 5,
+      "modeM": 7,
+      "nodeDensityBps": 1242,
+      "lineThicknessBps": 114,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 24,
+      "modeN": 1,
+      "modeM": 2,
+      "nodeDensityBps": 720,
+      "lineThicknessBps": 142,
+      "rarityTier": 4,
+      "initialized": true
+    },
+    {
+      "frequency": 1557,
+      "modeN": 5,
+      "modeM": 9,
+      "nodeDensityBps": 1489,
+      "lineThicknessBps": 108,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1711,
+      "modeN": 6,
+      "modeM": 8,
+      "nodeDensityBps": 1512,
+      "lineThicknessBps": 102,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1870,
+      "modeN": 6,
+      "modeM": 9,
+      "nodeDensityBps": 1570,
+      "lineThicknessBps": 101,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1309,
+      "modeN": 5,
+      "modeM": 7,
+      "nodeDensityBps": 1269,
+      "lineThicknessBps": 113,
+      "rarityTier": 3,
+      "initialized": true
+    },
+    {
+      "frequency": 172,
+      "modeN": 1,
+      "modeM": 2,
+      "nodeDensityBps": 703,
+      "lineThicknessBps": 139,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 592,
+      "modeN": 3,
+      "modeM": 3,
+      "nodeDensityBps": 845,
+      "lineThicknessBps": 127,
+      "rarityTier": 0,
+      "initialized": true
+    },
+    {
+      "frequency": 455,
+      "modeN": 3,
+      "modeM": 4,
+      "nodeDensityBps": 843,
+      "lineThicknessBps": 130,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1505,
+      "modeN": 6,
+      "modeM": 7,
+      "nodeDensityBps": 1365,
+      "lineThicknessBps": 111,
+      "rarityTier": 1,
+      "initialized": true
+    },
+    {
+      "frequency": 1735,
+      "modeN": 6,
+      "modeM": 8,
+      "nodeDensityBps": 1470,
+      "lineThicknessBps": 103,
+      "rarityTier": 2,
+      "initialized": true
+    },
+    {
+      "frequency": 1328,
+      "modeN": 5,
+      "modeM": 8,
+      "nodeDensityBps": 1332,
+      "lineThicknessBps": 111,
+      "rarityTier": 1,
+      "initialized": true
+    },
+    {
+      "frequency": 1557,
+      "modeN": 6,
+      "modeM": 8,
+      "nodeDensityBps": 1505,
+      "lineThicknessBps": 108,
+      "rarityTier": 3,
+      "initialized": true
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #91",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/91.svg",
+  "external_url": "https://example.com",
+  "seed": 631576833,
+  "frequency": 142,
+  "modeN": 2,
+  "modeM": 3,
+  "secondaryModeN": 5,
+  "secondaryModeM": 1,
+  "presetId": "genesis-pulse",
+  "presetName": "Genesis Pulse",
+  "palette": "Emerald Voltage",
+  "colorway": "Emerald Voltage",
+  "colorVariant": "Emerald Voltage",
+  "colorMutation": "Standard",
+  "patternFamily": "Cross Bloom",
+  "waveDistortion": "Soft Drift",
+  "symmetryType": "Radial Symmetry",
+  "nodeArchitecture": "Orbital Bloom",
+  "harmonicLayerCount": 5,
+  "plateMaterial": "Obsidian Plate",
+  "resonanceType": "Cross Bloom",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 47,
+  "symmetryScore": 98,
+  "nodeDensity": 0.5267,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "142 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 2
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 3
+    },
+    {
+      "trait_type": "Mode",
+      "value": "2 x 3"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "5 x 1"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "genesis-pulse"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Genesis Pulse"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Cross Bloom"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Low Ring"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Emerald Voltage"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Emerald Voltage"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Soft Drift"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Radial Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Orbital Bloom"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Cross Bloom"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Obsidian Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 47,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 98,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.5267,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:91",
+    "seed_number": 631576833,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "genesis-pulse",
+    "color_mutation": "Standard",
+    "color_variant": "Emerald Voltage",
+    "pattern_family": "Cross Bloom",
+    "wave_distortion": "Soft Drift",
+    "symmetry_type": "Radial Symmetry",
+    "node_architecture": "Orbital Bloom",
+    "harmonic_layer_count": 5,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

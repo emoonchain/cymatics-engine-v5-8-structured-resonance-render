@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #5",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/5.svg",
+  "external_url": "https://example.com",
+  "seed": 188110022,
+  "frequency": 484,
+  "modeN": 4,
+  "modeM": 6,
+  "secondaryModeN": 1,
+  "secondaryModeM": 1,
+  "presetId": "genesis-pulse",
+  "presetName": "Genesis Pulse",
+  "palette": "Crimson Halo",
+  "colorway": "Crimson Halo",
+  "colorVariant": "Crimson Halo",
+  "colorMutation": "Standard",
+  "patternFamily": "Orbital Flower",
+  "waveDistortion": "Radial Drift",
+  "symmetryType": "Radial Symmetry",
+  "nodeArchitecture": "Orbital Bloom",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Titanium Plate",
+  "resonanceType": "Orbital Flower",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 49,
+  "symmetryScore": 98,
+  "nodeDensity": 0.2642,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "484 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 4
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 6
+    },
+    {
+      "trait_type": "Mode",
+      "value": "4 x 6"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "1 x 1"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "genesis-pulse"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Genesis Pulse"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Orbital Flower"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Petal Grid"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Crimson Halo"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Crimson Halo"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Radial Drift"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Radial Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Orbital Bloom"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Orbital Flower"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Titanium Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 49,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 98,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2642,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:5",
+    "seed_number": 188110022,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "genesis-pulse",
+    "color_mutation": "Standard",
+    "color_variant": "Crimson Halo",
+    "pattern_family": "Orbital Flower",
+    "wave_distortion": "Radial Drift",
+    "symmetry_type": "Radial Symmetry",
+    "node_architecture": "Orbital Bloom",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

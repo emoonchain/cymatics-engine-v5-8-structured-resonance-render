@@ -1,0 +1,37 @@
+{
+  "name": "Classic NODE #44",
+  "description": "Classic cymatics NFT with randomized readable frequency mapping from 20 Hz to 2222 Hz and unique gradient background.",
+  "image": "ipfs://QmU5FDkocakxcEKyGiZRaog1FhHvxkPTESAyVemhV8Sas8/44.png",
+  "frequency": 172,
+  "modeN": 1,
+  "modeM": 2,
+  "patternName": "Sub Ring Pulse",
+  "family": "Ring Cross",
+  "backgroundGradient": "Coral Bloom",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "172 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "1 x 2"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Sub Ring Pulse"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Ring Cross"
+    },
+    {
+      "trait_type": "Background Gradient",
+      "value": "Coral Bloom"
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Classic Plate Gradient"
+    }
+  ]
+}

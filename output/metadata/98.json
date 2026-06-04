@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #98",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/98.svg",
+  "external_url": "https://example.com",
+  "seed": 480578262,
+  "frequency": 715,
+  "modeN": 5,
+  "modeM": 7,
+  "secondaryModeN": 1,
+  "secondaryModeM": 6,
+  "presetId": "fractured-harmonic",
+  "presetName": "Fractured Harmonic",
+  "palette": "Emerald Voltage",
+  "colorway": "Emerald Voltage",
+  "colorVariant": "Emerald Voltage",
+  "colorMutation": "Standard",
+  "patternFamily": "Glitch Harmonic",
+  "waveDistortion": "Angular Warp",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Scar Lattice",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Obsidian Plate",
+  "resonanceType": "Glitch Harmonic",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 53,
+  "symmetryScore": 93,
+  "nodeDensity": 0.2212,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "715 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 7
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 7"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "1 x 6"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "fractured-harmonic"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Fractured Harmonic"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Glitch Harmonic"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Orbital Mesh"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Emerald Voltage"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Emerald Voltage"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Angular Warp"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Scar Lattice"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Glitch Harmonic"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Obsidian Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 53,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 93,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2212,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:98",
+    "seed_number": 480578262,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "fractured-harmonic",
+    "color_mutation": "Standard",
+    "color_variant": "Emerald Voltage",
+    "pattern_family": "Glitch Harmonic",
+    "wave_distortion": "Angular Warp",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Scar Lattice",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

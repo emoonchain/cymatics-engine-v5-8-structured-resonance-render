@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #55",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/55.svg",
+  "external_url": "https://example.com",
+  "seed": 2575809161,
+  "frequency": 459,
+  "modeN": 5,
+  "modeM": 6,
+  "secondaryModeN": 1,
+  "secondaryModeM": 8,
+  "presetId": "genesis-pulse",
+  "presetName": "Genesis Pulse",
+  "palette": "Aurora Forge",
+  "colorway": "Aurora Forge",
+  "colorVariant": "Aurora Forge",
+  "colorMutation": "Standard",
+  "patternFamily": "Cross Bloom",
+  "waveDistortion": "Bloom Stretch",
+  "symmetryType": "Radial Symmetry",
+  "nodeArchitecture": "Orbital Bloom",
+  "harmonicLayerCount": 5,
+  "plateMaterial": "Silver Plate",
+  "resonanceType": "Cross Bloom",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 52,
+  "symmetryScore": 97,
+  "nodeDensity": 0.3553,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "459 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 6
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 6"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "1 x 8"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "genesis-pulse"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Genesis Pulse"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Cross Bloom"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Loop Cells"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Aurora Forge"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Aurora Forge"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Bloom Stretch"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Radial Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Orbital Bloom"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Cross Bloom"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Silver Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 52,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 97,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.3553,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:55",
+    "seed_number": 2575809161,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "genesis-pulse",
+    "color_mutation": "Standard",
+    "color_variant": "Aurora Forge",
+    "pattern_family": "Cross Bloom",
+    "wave_distortion": "Bloom Stretch",
+    "symmetry_type": "Radial Symmetry",
+    "node_architecture": "Orbital Bloom",
+    "harmonic_layer_count": 5,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

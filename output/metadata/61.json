@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #61",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/61.svg",
+  "external_url": "https://example.com",
+  "seed": 361016358,
+  "frequency": 1108,
+  "modeN": 7,
+  "modeM": 9,
+  "secondaryModeN": 3,
+  "secondaryModeM": 17,
+  "presetId": "solar-lattice",
+  "presetName": "Solar Lattice",
+  "palette": "Ocean Signal",
+  "colorway": "Ocean Signal",
+  "colorVariant": "Ocean Signal",
+  "colorMutation": "Standard",
+  "patternFamily": "Diamond Mesh",
+  "waveDistortion": "Minimal Warp",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Dense Lattice",
+  "harmonicLayerCount": 5,
+  "plateMaterial": "Iron Plate",
+  "resonanceType": "Diamond Mesh",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 54,
+  "symmetryScore": 99,
+  "nodeDensity": 0.2036,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "1108 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 7
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 9
+    },
+    {
+      "trait_type": "Mode",
+      "value": "7 x 9"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "3 x 17"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "solar-lattice"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Solar Lattice"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Diamond Mesh"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Dense Lattice"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Ocean Signal"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Ocean Signal"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Minimal Warp"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Dense Lattice"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Diamond Mesh"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Iron Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 54,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 99,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2036,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:61",
+    "seed_number": 361016358,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "solar-lattice",
+    "color_mutation": "Standard",
+    "color_variant": "Ocean Signal",
+    "pattern_family": "Diamond Mesh",
+    "wave_distortion": "Minimal Warp",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Dense Lattice",
+    "harmonic_layer_count": 5,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

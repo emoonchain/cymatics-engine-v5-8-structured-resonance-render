@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 634 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/634.svg",
+  "frequency": 634,
+  "modeN": 4,
+  "modeM": 8,
+  "patternName": "Mode Mesh 634",
+  "family": "Mirror Mesh",
+  "nodeDensity": 0.1302,
+  "nodeDensityBps": 1302,
+  "lineThickness": 1.14,
+  "lineThicknessBps": 114,
+  "rarityTier": 4,
+  "rarityName": "Legendary",
+  "radialMix": 0.169,
+  "threshold": 0.0907,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "634 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "4×8"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 4
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 8
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Mode Mesh 634"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Mirror Mesh"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1302
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1302
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.14
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 114
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.169
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.091
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}

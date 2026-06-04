@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 836 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/836.svg",
+  "frequency": 836,
+  "modeN": 6,
+  "modeM": 9,
+  "patternName": "Dense Harmonic Lattice",
+  "family": "Harmonic Lattice",
+  "nodeDensity": 0.1665,
+  "nodeDensityBps": 1665,
+  "lineThickness": 0.95,
+  "lineThicknessBps": 95,
+  "rarityTier": 3,
+  "rarityName": "Epic",
+  "radialMix": 0.1226,
+  "threshold": 0.083,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "836 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "6×9"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 6
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 9
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dense Harmonic Lattice"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Harmonic Lattice"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1665
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1665
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 0.95
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 95
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.123
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.083
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}

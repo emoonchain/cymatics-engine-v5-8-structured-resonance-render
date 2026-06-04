@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #33",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/33.svg",
+  "external_url": "https://example.com",
+  "seed": 2878100493,
+  "frequency": 285,
+  "modeN": 4,
+  "modeM": 7,
+  "secondaryModeN": 7,
+  "secondaryModeM": 11,
+  "presetId": "fractured-harmonic",
+  "presetName": "Fractured Harmonic",
+  "palette": "Gold Lotus",
+  "colorway": "Gold Lotus",
+  "colorVariant": "Gold Lotus",
+  "colorMutation": "Standard",
+  "patternFamily": "Fracture Web",
+  "waveDistortion": "Angular Warp",
+  "symmetryType": "Near-Bilateral",
+  "nodeArchitecture": "Scar Lattice",
+  "harmonicLayerCount": 5,
+  "plateMaterial": "Silver Plate",
+  "resonanceType": "Fracture Web",
+  "energyClass": "Low Energy",
+  "rarityTier": "Common",
+  "complexityScore": 47,
+  "symmetryScore": 93,
+  "nodeDensity": 0.1216,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "285 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 4
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 7
+    },
+    {
+      "trait_type": "Mode",
+      "value": "4 x 7"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "7 x 11"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "fractured-harmonic"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Fractured Harmonic"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Fracture Web"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Soft Flower"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Gold Lotus"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Gold Lotus"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Angular Warp"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Near-Bilateral"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Scar Lattice"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Fracture Web"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Silver Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 47,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 93,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1216,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:33",
+    "seed_number": 2878100493,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "fractured-harmonic",
+    "color_mutation": "Standard",
+    "color_variant": "Gold Lotus",
+    "pattern_family": "Fracture Web",
+    "wave_distortion": "Angular Warp",
+    "symmetry_type": "Near-Bilateral",
+    "node_architecture": "Scar Lattice",
+    "harmonic_layer_count": 5,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

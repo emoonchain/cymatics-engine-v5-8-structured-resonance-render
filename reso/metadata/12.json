@@ -1,0 +1,37 @@
+{
+  "name": "Classic NODE #12",
+  "description": "Classic cymatics NFT with randomized readable frequency mapping from 20 Hz to 2222 Hz and unique gradient background.",
+  "image": "ipfs://QmU5FDkocakxcEKyGiZRaog1FhHvxkPTESAyVemhV8Sas8/12.png",
+  "frequency": 1606,
+  "modeN": 7,
+  "modeM": 8,
+  "patternName": "Symmetric Crown",
+  "family": "Bridge Mesh",
+  "backgroundGradient": "Lilac Echo",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "1606 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "7 x 8"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Symmetric Crown"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Bridge Mesh"
+    },
+    {
+      "trait_type": "Background Gradient",
+      "value": "Lilac Echo"
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Classic Plate Gradient"
+    }
+  ]
+}

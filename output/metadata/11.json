@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #11",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/11.svg",
+  "external_url": "https://example.com",
+  "seed": 361855001,
+  "frequency": 897,
+  "modeN": 5,
+  "modeM": 8,
+  "secondaryModeN": 3,
+  "secondaryModeM": 9,
+  "presetId": "solar-lattice",
+  "presetName": "Solar Lattice",
+  "palette": "Aurora Forge",
+  "colorway": "Aurora Forge",
+  "colorVariant": "Aurora Forge",
+  "colorMutation": "Standard",
+  "patternFamily": "Solar Grid",
+  "waveDistortion": "Mirror Tension",
+  "symmetryType": "Near-Bilateral",
+  "nodeArchitecture": "Dense Lattice",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Obsidian Plate",
+  "resonanceType": "Solar Grid",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 52,
+  "symmetryScore": 92,
+  "nodeDensity": 0.1614,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "897 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 8
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 8"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "3 x 9"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "solar-lattice"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Solar Lattice"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Solar Grid"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Diamond Mesh"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Aurora Forge"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Aurora Forge"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Mirror Tension"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Near-Bilateral"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Dense Lattice"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Solar Grid"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Obsidian Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 52,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 92,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1614,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:11",
+    "seed_number": 361855001,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "solar-lattice",
+    "color_mutation": "Standard",
+    "color_variant": "Aurora Forge",
+    "pattern_family": "Solar Grid",
+    "wave_distortion": "Mirror Tension",
+    "symmetry_type": "Near-Bilateral",
+    "node_architecture": "Dense Lattice",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "total": 12,
+  "modes": [
+    {
+      "id": "k-02-03",
+      "k": 3.606,
+      "n": 2,
+      "m": 3,
+      "family": "Fundamental Cross"
+    },
+    {
+      "id": "k-02-04",
+      "k": 4.472,
+      "n": 2,
+      "m": 4,
+      "family": "Fundamental Cross"
+    },
+    {
+      "id": "k-03-04",
+      "k": 5,
+      "n": 3,
+      "m": 4,
+      "family": "Mirror Cell"
+    },
+    {
+      "id": "k-02-05",
+      "k": 5.385,
+      "n": 2,
+      "m": 5,
+      "family": "Fundamental Cross"
+    },
+    {
+      "id": "k-03-05",
+      "k": 5.831,
+      "n": 3,
+      "m": 5,
+      "family": "Bridge Lattice"
+    },
+    {
+      "id": "k-01-06",
+      "k": 6.083,
+      "n": 1,
+      "m": 6,
+      "family": "Fundamental Cross"
+    },
+    {
+      "id": "k-02-06",
+      "k": 6.325,
+      "n": 2,
+      "m": 6,
+      "family": "Fundamental Cross"
+    },
+    {
+      "id": "k-04-05",
+      "k": 6.403,
+      "n": 4,
+      "m": 5,
+      "family": "Mirror Cell"
+    },
+    {
+      "id": "k-03-06",
+      "k": 6.708,
+      "n": 3,
+      "m": 6,
+      "family": "Orbital Cells"
+    },
+    {
+      "id": "k-01-07",
+      "k": 7.071,
+      "n": 1,
+      "m": 7,
+      "family": "Fundamental Cross"
+    },
+    {
+      "id": "k-04-06",
+      "k": 7.211,
+      "n": 4,
+      "m": 6,
+      "family": "Bridge Lattice"
+    },
+    {
+      "id": "k-02-07",
+      "k": 7.28,
+      "n": 2,
+      "m": 7,
+      "family": "Fundamental Cross"
+    }
+  ]
+}

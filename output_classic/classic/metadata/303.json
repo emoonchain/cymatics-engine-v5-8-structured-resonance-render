@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 303 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/303.svg",
+  "frequency": 303,
+  "modeN": 3,
+  "modeM": 4,
+  "patternName": "Harmonic Cross",
+  "family": "Petal Grid",
+  "nodeDensity": 0.0855,
+  "nodeDensityBps": 855,
+  "lineThickness": 1.29,
+  "lineThicknessBps": 129,
+  "rarityTier": 4,
+  "rarityName": "Legendary",
+  "radialMix": 0.2281,
+  "threshold": 0.1147,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "303 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "3×4"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 3
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 4
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Harmonic Cross"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Petal Grid"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.0855
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 855
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.29
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 129
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.228
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.115
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}

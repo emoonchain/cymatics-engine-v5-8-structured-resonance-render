@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 500 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/500.svg",
+  "frequency": 500,
+  "modeN": 5,
+  "modeM": 6,
+  "patternName": "Orbital Wave Labyrinth",
+  "family": "Wave Labyrinth",
+  "nodeDensity": 0.1262,
+  "nodeDensityBps": 1262,
+  "lineThickness": 1.18,
+  "lineThicknessBps": 118,
+  "rarityTier": 2,
+  "rarityName": "Rare",
+  "radialMix": 0.1968,
+  "threshold": 0.0979,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "500 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5×6"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 6
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Orbital Wave Labyrinth"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Wave Labyrinth"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1262
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1262
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.18
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 118
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.197
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.098
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}

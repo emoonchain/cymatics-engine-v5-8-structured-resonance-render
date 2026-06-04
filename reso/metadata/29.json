@@ -1,0 +1,37 @@
+{
+  "name": "Classic NODE #29",
+  "description": "Classic cymatics NFT with randomized readable frequency mapping from 20 Hz to 2222 Hz and unique gradient background.",
+  "image": "ipfs://QmU5FDkocakxcEKyGiZRaog1FhHvxkPTESAyVemhV8Sas8/29.png",
+  "frequency": 1748,
+  "modeN": 6,
+  "modeM": 9,
+  "patternName": "Wave Labyrinth",
+  "family": "Circle Lattice",
+  "backgroundGradient": "Ruby Halo",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "1748 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "6 x 9"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Wave Labyrinth"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Circle Lattice"
+    },
+    {
+      "trait_type": "Background Gradient",
+      "value": "Ruby Halo"
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Classic Plate Gradient"
+    }
+  ]
+}

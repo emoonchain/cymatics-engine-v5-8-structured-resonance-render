@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 632 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/632.svg",
+  "frequency": 632,
+  "modeN": 5,
+  "modeM": 6,
+  "patternName": "Prismatic Web",
+  "family": "Orbital Mesh",
+  "nodeDensity": 0.1258,
+  "nodeDensityBps": 1258,
+  "lineThickness": 1.15,
+  "lineThicknessBps": 115,
+  "rarityTier": 3,
+  "rarityName": "Epic",
+  "radialMix": 0.1797,
+  "threshold": 0.0942,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "632 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5×6"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 6
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Prismatic Web"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Orbital Mesh"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1258
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1258
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.15
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 115
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.18
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.094
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}

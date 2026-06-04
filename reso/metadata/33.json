@@ -1,0 +1,37 @@
+{
+  "name": "Classic NODE #33",
+  "description": "Classic cymatics NFT with randomized readable frequency mapping from 20 Hz to 2222 Hz and unique gradient background.",
+  "image": "ipfs://QmU5FDkocakxcEKyGiZRaog1FhHvxkPTESAyVemhV8Sas8/33.png",
+  "frequency": 1347,
+  "modeN": 5,
+  "modeM": 6,
+  "patternName": "Diamond Bridge Mesh",
+  "family": "Orbital Mesh",
+  "backgroundGradient": "Rose Flame",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "1347 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 6"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Diamond Bridge Mesh"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Orbital Mesh"
+    },
+    {
+      "trait_type": "Background Gradient",
+      "value": "Rose Flame"
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Classic Plate Gradient"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "name": "Chladni Node #1",
+  "description": "A frequency-born Chladni Node from the Resonance Genesis collection. Generated from cymatics-inspired resonance math, nodal sand fields, mode geometry, and deterministic on-chain mining traits.",
+  "image": "ipfs://CLASSIC_IMAGE_CID/1.svg",
+  "tokenId": 1,
+  "frequency": 570,
+  "modeN": 5,
+  "modeM": 7,
+  "patternName": "Orbital Bridge Bridge Mesh",
+  "family": "Bridge Mesh",
+  "backgroundGradient": "Obsidian Gold",
+  "nodeDensity": 0.1319,
+  "nodeDensityBps": 1319,
+  "lineThickness": 1.13,
+  "lineThicknessBps": 113,
+  "rarityTier": 0,
+  "rarityName": "Common",
+  "frequencyBand": "Upper Harmonic",
+  "symmetryType": "Bridge Symmetry",
+  "nodeArchitecture": "Mesh Node",
+  "waveDistortion": "Harmonic Bend",
+  "harmonicLayerCount": 4,
+  "radialMix": 0.1768,
+  "threshold": 0.0966,
+  "hashratePreview": 8373,
+  "renderer": "classic-chladni-physics-v2",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "570 Hz"
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "Upper Harmonic"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 7"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 7
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Orbital Bridge Bridge Mesh"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Bridge Mesh"
+    },
+    {
+      "trait_type": "Background Gradient",
+      "value": "Obsidian Gold"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1319
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1319
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.13
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 113
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 0
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Bridge Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Mesh Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Harmonic Bend"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 4
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.1768
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.0966
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 8373
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Classic Chladni Physics"
+    }
+  ]
+}

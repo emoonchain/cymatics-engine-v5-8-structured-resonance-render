@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #24",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/24.svg",
+  "external_url": "https://example.com",
+  "seed": 2861469969,
+  "frequency": 465,
+  "modeN": 5,
+  "modeM": 6,
+  "secondaryModeN": 1,
+  "secondaryModeM": 9,
+  "presetId": "void-resonance",
+  "presetName": "Void Resonance",
+  "palette": "Aurora Forge",
+  "colorway": "Aurora Forge",
+  "colorVariant": "Aurora Forge",
+  "colorMutation": "Standard",
+  "patternFamily": "Void Grid",
+  "waveDistortion": "Mirror Tension",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Dense Lattice",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Silver Plate",
+  "resonanceType": "Void Grid",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 54,
+  "symmetryScore": 96,
+  "nodeDensity": 0.2818,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "465 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 6
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 6"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "1 x 9"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "void-resonance"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Void Resonance"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Void Grid"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Petal Grid"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Aurora Forge"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Aurora Forge"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Mirror Tension"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Dense Lattice"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Void Grid"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Silver Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 54,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 96,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2818,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:24",
+    "seed_number": 2861469969,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "void-resonance",
+    "color_mutation": "Standard",
+    "color_variant": "Aurora Forge",
+    "pattern_family": "Void Grid",
+    "wave_distortion": "Mirror Tension",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Dense Lattice",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

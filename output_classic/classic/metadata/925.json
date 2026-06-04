@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 925 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/925.svg",
+  "frequency": 925,
+  "modeN": 7,
+  "modeM": 8,
+  "patternName": "Resonance Web 925",
+  "family": "Dense Net",
+  "nodeDensity": 0.1723,
+  "nodeDensityBps": 1723,
+  "lineThickness": 0.92,
+  "lineThicknessBps": 92,
+  "rarityTier": 2,
+  "rarityName": "Rare",
+  "radialMix": 0.1163,
+  "threshold": 0.0789,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "925 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "7×8"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 7
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 8
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Resonance Web 925"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Dense Net"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1723
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1723
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 0.92
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 92
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.116
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.079
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}

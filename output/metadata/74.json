@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #74",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/74.svg",
+  "external_url": "https://example.com",
+  "seed": 344091644,
+  "frequency": 559,
+  "modeN": 5,
+  "modeM": 7,
+  "secondaryModeN": 4,
+  "secondaryModeM": 15,
+  "presetId": "genesis-pulse",
+  "presetName": "Genesis Pulse",
+  "palette": "Gold Lotus",
+  "colorway": "Gold Lotus",
+  "colorVariant": "Gold Lotus",
+  "colorMutation": "Standard",
+  "patternFamily": "Radial Pulse",
+  "waveDistortion": "Soft Drift",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Crossmesh Field",
+  "harmonicLayerCount": 5,
+  "plateMaterial": "Iron Plate",
+  "resonanceType": "Radial Pulse",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 51,
+  "symmetryScore": 95,
+  "nodeDensity": 0.275,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "559 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 7
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 7"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "4 x 15"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "genesis-pulse"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Genesis Pulse"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Radial Pulse"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Petal Grid"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Gold Lotus"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Gold Lotus"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Soft Drift"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Crossmesh Field"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Radial Pulse"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Iron Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 51,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 95,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.275,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:74",
+    "seed_number": 344091644,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "genesis-pulse",
+    "color_mutation": "Standard",
+    "color_variant": "Gold Lotus",
+    "pattern_family": "Radial Pulse",
+    "wave_distortion": "Soft Drift",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Crossmesh Field",
+    "harmonic_layer_count": 5,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "total": 100,
+  "presets": {
+    "genesis-pulse": 20,
+    "solar-lattice": 17,
+    "sacred-mesh": 14,
+    "void-resonance": 14,
+    "fractured-harmonic": 18,
+    "bass-bloom": 17
+  },
+  "colorways": {
+    "Crimson Halo": 8,
+    "Solaris Bloom": 19,
+    "Neon Glacier": 9,
+    "Aurora Forge": 9,
+    "Violet Flux": 9,
+    "Emerald Voltage": 8,
+    "Chromatic Resonance": 2,
+    "Prism Tide": 11,
+    "Gold Lotus": 10,
+    "Ember Orchid": 9,
+    "Prism Bloom": 1,
+    "Ocean Signal": 5
+  },
+  "colorVariants": {
+    "Crimson Halo": 8,
+    "Solaris Bloom": 19,
+    "Neon Glacier": 9,
+    "Aurora Forge": 9,
+    "Violet Flux": 9,
+    "Emerald Voltage": 8,
+    "Chromatic Soft": 1,
+    "Prism Tide": 11,
+    "Gold Lotus": 10,
+    "Ember Orchid": 9,
+    "Mythic Spectrum": 1,
+    "Ocean Signal": 5,
+    "Chromatic Neon": 1
+  },
+  "colorMutations": {
+    "Standard": 97,
+    "Chromatic Resonance": 2,
+    "Prism Bloom": 1
+  },
+  "patternFamilies": {
+    "Orbital Flower": 4,
+    "High Harmonic Grid": 5,
+    "Radiant Net": 5,
+    "Sacred Mesh": 5,
+    "Soft Lattice": 6,
+    "Dark Lattice": 6,
+    "Fracture Web": 5,
+    "Low Ring": 4,
+    "Glitch Harmonic": 9,
+    "Solar Grid": 2,
+    "Chrome Scar": 2,
+    "Asymmetric Scar": 2,
+    "Slow Flower": 5,
+    "Void Grid": 4,
+    "Noir Signal": 2,
+    "Petal Wave": 4,
+    "Bass Bloom": 4,
+    "Radial Pulse": 5,
+    "Diamond Mesh": 5,
+    "Mandala Grid": 3,
+    "Interference Storm": 2,
+    "Cross Bloom": 5,
+    "Temple Net": 5,
+    "Mirror Bloom": 1
+  },
+  "waveDistortions": {
+    "Soft Drift": 11,
+    "Balanced Warp": 15,
+    "Mirror Tension": 21,
+    "Radial Drift": 15,
+    "Minimal Warp": 10,
+    "Angular Warp": 17,
+    "Fracture Shear": 1,
+    "Wave Tilt": 8,
+    "Bloom Stretch": 2
+  },
+  "symmetryTypes": {
+    "Radial Symmetry": 23,
+    "Mirror Symmetry": 55,
+    "Near-Bilateral": 14,
+    "Mandala Symmetry": 8
+  },
+  "nodeArchitectures": {
+    "Orbital Bloom": 23,
+    "Dense Lattice": 36,
+    "Crossmesh Field": 21,
+    "Scar Lattice": 18,
+    "Void Grid": 2
+  },
+  "harmonicLayerCounts": {
+    "4": 6,
+    "5": 34,
+    "6": 60
+  },
+  "rarityTiers": {
+    "Uncommon": 83,
+    "Rare": 9,
+    "Common": 6,
+    "Legendary": 2
+  }
+}

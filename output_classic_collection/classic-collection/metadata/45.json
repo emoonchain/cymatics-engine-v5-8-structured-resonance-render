@@ -1,0 +1,117 @@
+{
+  "name": "Chladni Node #45",
+  "description": "A frequency-born Chladni Node from the Resonance Genesis collection. Generated from cymatics-inspired resonance math, nodal sand fields, mode geometry, and deterministic on-chain mining traits.",
+  "image": "ipfs://CLASSIC_IMAGE_CID/45.svg",
+  "tokenId": 45,
+  "frequency": 854,
+  "modeN": 6,
+  "modeM": 8,
+  "patternName": "Dense Bridge Diamond Grid",
+  "family": "Diamond Grid",
+  "backgroundGradient": "Void Ember",
+  "nodeDensity": 0.1555,
+  "nodeDensityBps": 1555,
+  "lineThickness": 0.99,
+  "lineThicknessBps": 99,
+  "rarityTier": 1,
+  "rarityName": "Uncommon",
+  "frequencyBand": "High Signal",
+  "symmetryType": "Bridge Symmetry",
+  "nodeArchitecture": "Mesh Node",
+  "waveDistortion": "Low Drift",
+  "harmonicLayerCount": 4,
+  "radialMix": 0.1253,
+  "threshold": 0.0839,
+  "hashratePreview": 11698,
+  "renderer": "classic-chladni-physics-v2",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "854 Hz"
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "High Signal"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "6 x 8"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 6
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 8
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dense Bridge Diamond Grid"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Diamond Grid"
+    },
+    {
+      "trait_type": "Background Gradient",
+      "value": "Void Ember"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1555
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1555
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 0.99
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 99
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 1
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Bridge Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Mesh Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Low Drift"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 4
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.1253
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.0839
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 11698
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Classic Chladni Physics"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Chladni Node #28",
+  "description": "A scientific Chladni Node from the Resonance Genesis collection. Generated from deterministic eigenmode-inspired plate resonance math, nodal line detection, and on-chain mining traits.",
+  "image": "ipfs://SCIENTIFIC_IMAGE_CID/28.svg",
+  "tokenId": 28,
+  "frequency": 660,
+  "waveNumberK": 17.15,
+  "modeN": 8,
+  "modeM": 14,
+  "patternName": "K61 Nested Grid",
+  "family": "Nested Grid",
+  "nodeDensity": 0.28,
+  "nodeDensityBps": 2800,
+  "lineThickness": 1.11,
+  "lineThicknessBps": 111,
+  "rarityTier": 2,
+  "rarityName": "Rare",
+  "frequencyBand": "Upper Harmonic",
+  "symmetryType": "Drift Symmetry",
+  "nodeArchitecture": "Dense Node",
+  "waveDistortion": "Soft Phase",
+  "harmonicLayerCount": 6,
+  "hashratePreview": 24813,
+  "renderer": "scientific-chladni-node-v1",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "660 Hz"
+    },
+    {
+      "trait_type": "Wave Number K",
+      "value": 17.15
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "Upper Harmonic"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "8 x 14"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 8
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 14
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "K61 Nested Grid"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Nested Grid"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.28
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 2800
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.11
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 111
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 2
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Drift Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Dense Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Soft Phase"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 24813
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Scientific Chladni"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #67",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/67.svg",
+  "external_url": "https://example.com",
+  "seed": 394571596,
+  "frequency": 733,
+  "modeN": 5,
+  "modeM": 8,
+  "secondaryModeN": 5,
+  "secondaryModeM": 14,
+  "presetId": "fractured-harmonic",
+  "presetName": "Fractured Harmonic",
+  "palette": "Chromatic Resonance",
+  "colorway": "Chromatic Resonance",
+  "colorVariant": "Chromatic Neon",
+  "colorMutation": "Chromatic Resonance",
+  "patternFamily": "Interference Storm",
+  "waveDistortion": "Wave Tilt",
+  "symmetryType": "Near-Bilateral",
+  "nodeArchitecture": "Crossmesh Field",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Bronze Plate",
+  "resonanceType": "Interference Storm",
+  "energyClass": "Low Energy",
+  "rarityTier": "Rare",
+  "complexityScore": 57,
+  "symmetryScore": 90,
+  "nodeDensity": 0.2022,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "733 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 8
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 8"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "5 x 14"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "fractured-harmonic"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Fractured Harmonic"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Interference Storm"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Orbital Mesh"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Chromatic Resonance"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Chromatic Neon"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Chromatic Resonance"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Wave Tilt"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Near-Bilateral"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Crossmesh Field"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Interference Storm"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Bronze Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 57,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 90,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2022,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:67",
+    "seed_number": 394571596,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "fractured-harmonic",
+    "color_mutation": "Chromatic Resonance",
+    "color_variant": "Chromatic Neon",
+    "pattern_family": "Interference Storm",
+    "wave_distortion": "Wave Tilt",
+    "symmetry_type": "Near-Bilateral",
+    "node_architecture": "Crossmesh Field",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

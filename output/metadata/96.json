@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #96",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/96.svg",
+  "external_url": "https://example.com",
+  "seed": 648354452,
+  "frequency": 1093,
+  "modeN": 7,
+  "modeM": 8,
+  "secondaryModeN": 6,
+  "secondaryModeM": 10,
+  "presetId": "solar-lattice",
+  "presetName": "Solar Lattice",
+  "palette": "Crimson Halo",
+  "colorway": "Crimson Halo",
+  "colorVariant": "Crimson Halo",
+  "colorMutation": "Standard",
+  "patternFamily": "Radiant Net",
+  "waveDistortion": "Mirror Tension",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Crossmesh Field",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Titanium Plate",
+  "resonanceType": "Radiant Net",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 55,
+  "symmetryScore": 93,
+  "nodeDensity": 0.1926,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "1093 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 7
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 8
+    },
+    {
+      "trait_type": "Mode",
+      "value": "7 x 8"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "6 x 10"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "solar-lattice"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Solar Lattice"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Radiant Net"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Dense Lattice"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Crimson Halo"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Crimson Halo"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Mirror Tension"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Crossmesh Field"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Radiant Net"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Titanium Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 55,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 93,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1926,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:96",
+    "seed_number": 648354452,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "solar-lattice",
+    "color_mutation": "Standard",
+    "color_variant": "Crimson Halo",
+    "pattern_family": "Radiant Net",
+    "wave_distortion": "Mirror Tension",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Crossmesh Field",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

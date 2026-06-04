@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #69",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/69.svg",
+  "external_url": "https://example.com",
+  "seed": 495237310,
+  "frequency": 175,
+  "modeN": 3,
+  "modeM": 4,
+  "secondaryModeN": 11,
+  "secondaryModeM": 11,
+  "presetId": "bass-bloom",
+  "presetName": "Bass Bloom",
+  "palette": "Violet Flux",
+  "colorway": "Violet Flux",
+  "colorVariant": "Violet Flux",
+  "colorMutation": "Standard",
+  "patternFamily": "Low Ring",
+  "waveDistortion": "Soft Drift",
+  "symmetryType": "Radial Symmetry",
+  "nodeArchitecture": "Orbital Bloom",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Bronze Plate",
+  "resonanceType": "Low Ring",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 56,
+  "symmetryScore": 96,
+  "nodeDensity": 0.4226,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "175 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 3
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 4
+    },
+    {
+      "trait_type": "Mode",
+      "value": "3 x 4"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "11 x 11"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "bass-bloom"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Bass Bloom"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Low Ring"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Cross Bloom"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Violet Flux"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Violet Flux"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Soft Drift"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Radial Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Orbital Bloom"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Low Ring"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Bronze Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 56,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 96,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.4226,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:69",
+    "seed_number": 495237310,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "bass-bloom",
+    "color_mutation": "Standard",
+    "color_variant": "Violet Flux",
+    "pattern_family": "Low Ring",
+    "wave_distortion": "Soft Drift",
+    "symmetry_type": "Radial Symmetry",
+    "node_architecture": "Orbital Bloom",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

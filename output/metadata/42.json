@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #42",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/42.svg",
+  "external_url": "https://example.com",
+  "seed": 2760510065,
+  "frequency": 765,
+  "modeN": 5,
+  "modeM": 7,
+  "secondaryModeN": 2,
+  "secondaryModeM": 12,
+  "presetId": "void-resonance",
+  "presetName": "Void Resonance",
+  "palette": "Prism Tide",
+  "colorway": "Prism Tide",
+  "colorVariant": "Prism Tide",
+  "colorMutation": "Standard",
+  "patternFamily": "Void Grid",
+  "waveDistortion": "Mirror Tension",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Dense Lattice",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Iron Plate",
+  "resonanceType": "Void Grid",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 51,
+  "symmetryScore": 91,
+  "nodeDensity": 0.1924,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "765 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 7
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 7"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "2 x 12"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "void-resonance"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Void Resonance"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Void Grid"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Orbital Mesh"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Prism Tide"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Prism Tide"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Mirror Tension"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Dense Lattice"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Void Grid"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Iron Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 51,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 91,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1924,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:42",
+    "seed_number": 2760510065,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "void-resonance",
+    "color_mutation": "Standard",
+    "color_variant": "Prism Tide",
+    "pattern_family": "Void Grid",
+    "wave_distortion": "Mirror Tension",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Dense Lattice",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

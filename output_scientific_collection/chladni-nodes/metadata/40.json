@@ -1,0 +1,107 @@
+{
+  "name": "Chladni Node #40",
+  "description": "A scientific Chladni Node from the Resonance Genesis collection. Generated from deterministic eigenmode-inspired plate resonance math, nodal line detection, and on-chain mining traits.",
+  "image": "ipfs://SCIENTIFIC_IMAGE_CID/40.svg",
+  "tokenId": 40,
+  "frequency": 250,
+  "waveNumberK": 9.57,
+  "modeN": 5,
+  "modeM": 8,
+  "patternName": "K23 Orbital Cells",
+  "family": "Orbital Cells",
+  "nodeDensity": 0.1352,
+  "nodeDensityBps": 1352,
+  "lineThickness": 1.19,
+  "lineThicknessBps": 119,
+  "rarityTier": 2,
+  "rarityName": "Rare",
+  "frequencyBand": "Lower Mid Field",
+  "symmetryType": "Lattice Symmetry",
+  "nodeArchitecture": "Bridge Node",
+  "waveDistortion": "Low Drift",
+  "harmonicLayerCount": 4,
+  "hashratePreview": 12355,
+  "renderer": "scientific-chladni-node-v1",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "250 Hz"
+    },
+    {
+      "trait_type": "Wave Number K",
+      "value": 9.57
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "Lower Mid Field"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 8"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 8
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "K23 Orbital Cells"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Orbital Cells"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1352
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1352
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.19
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 119
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 2
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Lattice Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Bridge Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Low Drift"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 4
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 12355
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Scientific Chladni"
+    }
+  ]
+}

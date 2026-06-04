@@ -1,0 +1,117 @@
+{
+  "name": "Chladni Node #17",
+  "description": "A frequency-born Chladni Node from the Resonance Genesis collection. Generated from cymatics-inspired resonance math, nodal sand fields, mode geometry, and deterministic on-chain mining traits.",
+  "image": "ipfs://CLASSIC_IMAGE_CID/17.svg",
+  "tokenId": 17,
+  "frequency": 290,
+  "modeN": 4,
+  "modeM": 5,
+  "patternName": "Resonant Mirror Petal Grid",
+  "family": "Petal Grid",
+  "backgroundGradient": "Aurora Mint",
+  "nodeDensity": 0.1006,
+  "nodeDensityBps": 1006,
+  "lineThickness": 1.3,
+  "lineThicknessBps": 130,
+  "rarityTier": 5,
+  "rarityName": "Mythic",
+  "frequencyBand": "Lower Mid Field",
+  "symmetryType": "Near Mirror",
+  "nodeArchitecture": "Branch Node",
+  "waveDistortion": "Soft Phase",
+  "harmonicLayerCount": 3,
+  "radialMix": 0.2205,
+  "threshold": 0.1121,
+  "hashratePreview": 17914,
+  "renderer": "classic-chladni-physics-v2",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "290 Hz"
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "Lower Mid Field"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "4 x 5"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 4
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 5
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Resonant Mirror Petal Grid"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Petal Grid"
+    },
+    {
+      "trait_type": "Background Gradient",
+      "value": "Aurora Mint"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1006
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1006
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.3
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 130
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 5
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Near Mirror"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Branch Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Soft Phase"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 3
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.2205
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.1121
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 17914
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Classic Chladni Physics"
+    }
+  ]
+}

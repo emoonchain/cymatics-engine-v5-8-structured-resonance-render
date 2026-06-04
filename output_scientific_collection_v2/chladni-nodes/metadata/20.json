@@ -1,0 +1,113 @@
+{
+  "name": "Chladni Node #20",
+  "description": "A scientific Chladni Node from the Resonance Genesis collection. Generated from deterministic plate resonance math, nodal line detection, palette-driven scientific rendering, and on-chain mining traits.",
+  "image": "ipfs://SCIENTIFIC_IMAGE_CID/20.svg",
+  "tokenId": 20,
+  "frequency": 835,
+  "waveNumberK": 20.371,
+  "modeN": 11,
+  "modeM": 17,
+  "patternName": "Dense Drift Fine Web",
+  "family": "Fine Web",
+  "colorway": "Amber Sand",
+  "colorwayId": "amber-sand",
+  "nodeDensity": 0.28,
+  "nodeDensityBps": 2800,
+  "lineThickness": 1.08,
+  "lineThicknessBps": 108,
+  "rarityTier": 0,
+  "rarityName": "Common",
+  "frequencyBand": "High Signal",
+  "symmetryType": "Drift Symmetry",
+  "nodeArchitecture": "Dense Node",
+  "waveDistortion": "Soft Phase",
+  "harmonicLayerCount": 6,
+  "hashratePreview": 22061,
+  "renderer": "scientific-chladni-node-v3",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "835 Hz"
+    },
+    {
+      "trait_type": "Wave Number K",
+      "value": 20.371
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "High Signal"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "11 x 17"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 11
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 17
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dense Drift Fine Web"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Fine Web"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Amber Sand"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.28
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 2800
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.08
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 108
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 0
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Drift Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Dense Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Soft Phase"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 22061
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Scientific Chladni Color"
+    }
+  ]
+}

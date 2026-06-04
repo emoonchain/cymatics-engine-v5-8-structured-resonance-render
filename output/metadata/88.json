@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #88",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/88.svg",
+  "external_url": "https://example.com",
+  "seed": 581391071,
+  "frequency": 1044,
+  "modeN": 8,
+  "modeM": 9,
+  "secondaryModeN": 15,
+  "secondaryModeM": 17,
+  "presetId": "sacred-mesh",
+  "presetName": "Sacred Mesh",
+  "palette": "Violet Flux",
+  "colorway": "Violet Flux",
+  "colorVariant": "Violet Flux",
+  "colorMutation": "Standard",
+  "patternFamily": "Temple Net",
+  "waveDistortion": "Minimal Warp",
+  "symmetryType": "Mandala Symmetry",
+  "nodeArchitecture": "Crossmesh Field",
+  "harmonicLayerCount": 5,
+  "plateMaterial": "Resonant Ceramic",
+  "resonanceType": "Temple Net",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 69,
+  "symmetryScore": 96,
+  "nodeDensity": 0.2976,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "1044 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 8
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 9
+    },
+    {
+      "trait_type": "Mode",
+      "value": "8 x 9"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "15 x 17"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "sacred-mesh"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Sacred Mesh"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Temple Net"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Dense Lattice"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Violet Flux"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Violet Flux"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Minimal Warp"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mandala Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Crossmesh Field"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Temple Net"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Resonant Ceramic"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 69,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 96,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2976,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:88",
+    "seed_number": 581391071,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "sacred-mesh",
+    "color_mutation": "Standard",
+    "color_variant": "Violet Flux",
+    "pattern_family": "Temple Net",
+    "wave_distortion": "Minimal Warp",
+    "symmetry_type": "Mandala Symmetry",
+    "node_architecture": "Crossmesh Field",
+    "harmonic_layer_count": 5,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

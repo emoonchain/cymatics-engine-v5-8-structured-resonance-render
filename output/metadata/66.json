@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #66",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/66.svg",
+  "external_url": "https://example.com",
+  "seed": 411349215,
+  "frequency": 257,
+  "modeN": 4,
+  "modeM": 5,
+  "secondaryModeN": 3,
+  "secondaryModeM": 1,
+  "presetId": "bass-bloom",
+  "presetName": "Bass Bloom",
+  "palette": "Emerald Voltage",
+  "colorway": "Emerald Voltage",
+  "colorVariant": "Emerald Voltage",
+  "colorMutation": "Standard",
+  "patternFamily": "Petal Wave",
+  "waveDistortion": "Wave Tilt",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Crossmesh Field",
+  "harmonicLayerCount": 5,
+  "plateMaterial": "Silver Plate",
+  "resonanceType": "Petal Wave",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 51,
+  "symmetryScore": 98,
+  "nodeDensity": 0.4088,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "257 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 4
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode",
+      "value": "4 x 5"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "3 x 1"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "bass-bloom"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Bass Bloom"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Petal Wave"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Soft Flower"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Emerald Voltage"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Emerald Voltage"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Wave Tilt"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Crossmesh Field"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Petal Wave"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Silver Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 51,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 98,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.4088,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:66",
+    "seed_number": 411349215,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "bass-bloom",
+    "color_mutation": "Standard",
+    "color_variant": "Emerald Voltage",
+    "pattern_family": "Petal Wave",
+    "wave_distortion": "Wave Tilt",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Crossmesh Field",
+    "harmonic_layer_count": 5,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

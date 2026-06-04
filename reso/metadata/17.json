@@ -1,0 +1,37 @@
+{
+  "name": "Classic NODE #17",
+  "description": "Classic cymatics NFT with randomized readable frequency mapping from 20 Hz to 2222 Hz and unique gradient background.",
+  "image": "ipfs://QmU5FDkocakxcEKyGiZRaog1FhHvxkPTESAyVemhV8Sas8/17.png",
+  "frequency": 1265,
+  "modeN": 5,
+  "modeM": 7,
+  "patternName": "Sacred Mirror Net",
+  "family": "Mirror Mesh",
+  "backgroundGradient": "Plasma Orchid",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "1265 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 7"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Sacred Mirror Net"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Mirror Mesh"
+    },
+    {
+      "trait_type": "Background Gradient",
+      "value": "Plasma Orchid"
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Classic Plate Gradient"
+    }
+  ]
+}

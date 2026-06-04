@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 53 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/53.svg",
+  "frequency": 53,
+  "modeN": 2,
+  "modeM": 2,
+  "patternName": "Sub Bass Cross",
+  "family": "Bass Cross",
+  "nodeDensity": 0.0683,
+  "nodeDensityBps": 683,
+  "lineThickness": 1.41,
+  "lineThicknessBps": 141,
+  "rarityTier": 3,
+  "rarityName": "Epic",
+  "radialMix": 0.2573,
+  "threshold": 0.125,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "53 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "2×2"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 2
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 2
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Sub Bass Cross"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Bass Cross"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.0683
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 683
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.41
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 141
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.257
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.125
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}

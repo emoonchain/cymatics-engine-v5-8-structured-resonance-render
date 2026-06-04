@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #25",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/25.svg",
+  "external_url": "https://example.com",
+  "seed": 2844692350,
+  "frequency": 578,
+  "modeN": 5,
+  "modeM": 6,
+  "secondaryModeN": 13,
+  "secondaryModeM": 6,
+  "presetId": "void-resonance",
+  "presetName": "Void Resonance",
+  "palette": "Neon Glacier",
+  "colorway": "Neon Glacier",
+  "colorVariant": "Neon Glacier",
+  "colorMutation": "Standard",
+  "patternFamily": "Noir Signal",
+  "waveDistortion": "Wave Tilt",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Void Grid",
+  "harmonicLayerCount": 5,
+  "plateMaterial": "Iron Plate",
+  "resonanceType": "Noir Signal",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 56,
+  "symmetryScore": 96,
+  "nodeDensity": 0.379,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "578 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 6
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 6"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "13 x 6"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "void-resonance"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Void Resonance"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Noir Signal"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Petal Grid"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Neon Glacier"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Neon Glacier"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Wave Tilt"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Void Grid"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Noir Signal"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Iron Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 56,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 96,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.379,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:25",
+    "seed_number": 2844692350,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "void-resonance",
+    "color_mutation": "Standard",
+    "color_variant": "Neon Glacier",
+    "pattern_family": "Noir Signal",
+    "wave_distortion": "Wave Tilt",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Void Grid",
+    "harmonic_layer_count": 5,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

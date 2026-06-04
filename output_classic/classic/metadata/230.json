@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 230 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/230.svg",
+  "frequency": 230,
+  "modeN": 3,
+  "modeM": 4,
+  "patternName": "Open Crown",
+  "family": "Orbital Wells",
+  "nodeDensity": 0.0973,
+  "nodeDensityBps": 973,
+  "lineThickness": 1.36,
+  "lineThicknessBps": 136,
+  "rarityTier": 2,
+  "rarityName": "Rare",
+  "radialMix": 0.2507,
+  "threshold": 0.1071,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "230 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "3×4"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 3
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 4
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Open Crown"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Orbital Wells"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.0973
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 973
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.36
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 136
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.251
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.107
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}

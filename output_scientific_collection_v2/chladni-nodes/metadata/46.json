@@ -1,0 +1,113 @@
+{
+  "name": "Chladni Node #46",
+  "description": "A scientific Chladni Node from the Resonance Genesis collection. Generated from deterministic plate resonance math, nodal line detection, palette-driven scientific rendering, and on-chain mining traits.",
+  "image": "ipfs://SCIENTIFIC_IMAGE_CID/46.svg",
+  "tokenId": 46,
+  "frequency": 303,
+  "waveNumberK": 10.509,
+  "modeN": 3,
+  "modeM": 10,
+  "patternName": "Central Drift Ring Square",
+  "family": "Ring Square",
+  "colorway": "Amber Sand",
+  "colorwayId": "amber-sand",
+  "nodeDensity": 0.1149,
+  "nodeDensityBps": 1149,
+  "lineThickness": 1.18,
+  "lineThicknessBps": 118,
+  "rarityTier": 3,
+  "rarityName": "Epic",
+  "frequencyBand": "Lower Mid Field",
+  "symmetryType": "Drift Symmetry",
+  "nodeArchitecture": "Bridge Node",
+  "waveDistortion": "Low Drift",
+  "harmonicLayerCount": 4,
+  "hashratePreview": 14328,
+  "renderer": "scientific-chladni-node-v3",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "303 Hz"
+    },
+    {
+      "trait_type": "Wave Number K",
+      "value": 10.509
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "Lower Mid Field"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "3 x 10"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 3
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 10
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Central Drift Ring Square"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Ring Square"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Amber Sand"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1149
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1149
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.18
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 118
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 3
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Drift Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Bridge Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Low Drift"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 4
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 14328
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Scientific Chladni Color"
+    }
+  ]
+}

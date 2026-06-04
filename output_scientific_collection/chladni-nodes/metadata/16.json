@@ -1,0 +1,107 @@
+{
+  "name": "Chladni Node #16",
+  "description": "A scientific Chladni Node from the Resonance Genesis collection. Generated from deterministic eigenmode-inspired plate resonance math, nodal line detection, and on-chain mining traits.",
+  "image": "ipfs://SCIENTIFIC_IMAGE_CID/16.svg",
+  "tokenId": 16,
+  "frequency": 440,
+  "waveNumberK": 12.97,
+  "modeN": 8,
+  "modeM": 10,
+  "patternName": "K40 Bridge Lattice",
+  "family": "Bridge Lattice",
+  "nodeDensity": 0.2293,
+  "nodeDensityBps": 2293,
+  "lineThickness": 1.16,
+  "lineThicknessBps": 116,
+  "rarityTier": 4,
+  "rarityName": "Legendary",
+  "frequencyBand": "Mid Resonance",
+  "symmetryType": "Bridge Symmetry",
+  "nodeArchitecture": "Lattice Node",
+  "waveDistortion": "Low Drift",
+  "harmonicLayerCount": 5,
+  "hashratePreview": 30149,
+  "renderer": "scientific-chladni-node-v1",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "440 Hz"
+    },
+    {
+      "trait_type": "Wave Number K",
+      "value": 12.97
+    },
+    {
+      "trait_type": "Frequency Band",
+      "value": "Mid Resonance"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "8 x 10"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 8
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 10
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "K40 Bridge Lattice"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Bridge Lattice"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2293
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 2293
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.16
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 116
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Rarity Index",
+      "value": 4
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Bridge Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Lattice Node"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Low Drift"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Hashrate Preview",
+      "value": 30149
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Scientific Chladni"
+    }
+  ]
+}

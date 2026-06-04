@@ -1,0 +1,49 @@
+{
+  "name": "cymatics-engine",
+  "version": "5.8.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "generate:collection": "node scripts/generate-collection.mjs",
+    "generate:100": "node scripts/generate-collection.mjs --count 100",
+    "generate:1000": "node scripts/generate-collection.mjs --count 1000",
+    "generate:3333": "node scripts/generate-collection.mjs --count 3333",
+    "metadata:update-cid": "node scripts/update-metadata-cid.mjs",
+    "metadata:update-cid:dry": "node scripts/update-metadata-cid.mjs --dry-run",
+    "analyze:colorways": "node scripts/analyze-colorways.mjs",
+    "animation:encode": "node scripts/encode-animation.mjs",
+    "convert:png": "node scripts/convert-svg-to-png.mjs",
+    "animation:manifest": "node scripts/generate-animation-manifest.mjs",
+    "animation:render:batch": "node scripts/render-animation-batch.mjs",
+    "generate:classic": "node scripts/generate-classic-gallery.mjs --count 50",
+    "generate:classic-galery-100": "node scripts/generate-classic-gallery.mjs --count 50",
+    "metadata:csv": "node scripts/metadata-json-to-csv.mjs",
+    "generate:classic-1212": "node scripts/generate-classic-collection.mjs --count 1212",
+    "generate:sains-v1": "node scripts/generate-scientific-collection.mjs",
+    "generate:sains-v2": "node scripts/generate-scientific-collection_v2.mjs",
+    "mp4:teaser": "node scripts/images-to-mp4.mjs",
+    "og:create": "node scripts/create-og-image.mjs",
+    "gif:50": "node scripts/images-to-gif.mjs",
+    "generate:classic-collection": "node scripts/generate-classic-collection.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "latest",
+    "@react-three/fiber": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/three": "latest",
+    "@vitejs/plugin-react": "latest",
+    "playwright": "^1.53.0",
+    "sharp": "^0.34.5",
+    "typescript": "latest",
+    "vite": "latest"
+  }
+}

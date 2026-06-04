@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #45",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/45.svg",
+  "external_url": "https://example.com",
+  "seed": 2777287684,
+  "frequency": 860,
+  "modeN": 7,
+  "modeM": 8,
+  "secondaryModeN": 5,
+  "secondaryModeM": 9,
+  "presetId": "fractured-harmonic",
+  "presetName": "Fractured Harmonic",
+  "palette": "Neon Glacier",
+  "colorway": "Neon Glacier",
+  "colorVariant": "Neon Glacier",
+  "colorMutation": "Standard",
+  "patternFamily": "Interference Storm",
+  "waveDistortion": "Wave Tilt",
+  "symmetryType": "Mirror Symmetry",
+  "nodeArchitecture": "Crossmesh Field",
+  "harmonicLayerCount": 5,
+  "plateMaterial": "Iron Plate",
+  "resonanceType": "Interference Storm",
+  "energyClass": "Low Energy",
+  "rarityTier": "Uncommon",
+  "complexityScore": 54,
+  "symmetryScore": 94,
+  "nodeDensity": 0.2015,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "860 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 7
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 8
+    },
+    {
+      "trait_type": "Mode",
+      "value": "7 x 8"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "5 x 9"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "fractured-harmonic"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Fractured Harmonic"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Interference Storm"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Diamond Mesh"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Neon Glacier"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Neon Glacier"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Wave Tilt"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mirror Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Crossmesh Field"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Interference Storm"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Iron Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 54,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 94,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.2015,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:45",
+    "seed_number": 2777287684,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "fractured-harmonic",
+    "color_mutation": "Standard",
+    "color_variant": "Neon Glacier",
+    "pattern_family": "Interference Storm",
+    "wave_distortion": "Wave Tilt",
+    "symmetry_type": "Mirror Symmetry",
+    "node_architecture": "Crossmesh Field",
+    "harmonic_layer_count": 5,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

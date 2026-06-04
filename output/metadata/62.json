@@ -1,0 +1,146 @@
+{
+  "name": "Cymatica #62",
+  "description": "A deterministic generative cymatics artwork simulated from a digital Chladni resonance plate.",
+  "image": "ipfs://IMAGE_CID/62.svg",
+  "external_url": "https://example.com",
+  "seed": 344238739,
+  "frequency": 830,
+  "modeN": 5,
+  "modeM": 8,
+  "secondaryModeN": 1,
+  "secondaryModeM": 1,
+  "presetId": "sacred-mesh",
+  "presetName": "Sacred Mesh",
+  "palette": "Solaris Bloom",
+  "colorway": "Solaris Bloom",
+  "colorVariant": "Solaris Bloom",
+  "colorMutation": "Standard",
+  "patternFamily": "Temple Net",
+  "waveDistortion": "Mirror Tension",
+  "symmetryType": "Mandala Symmetry",
+  "nodeArchitecture": "Crossmesh Field",
+  "harmonicLayerCount": 6,
+  "plateMaterial": "Bronze Plate",
+  "resonanceType": "Temple Net",
+  "energyClass": "Low Energy",
+  "rarityTier": "Common",
+  "complexityScore": 42,
+  "symmetryScore": 91,
+  "nodeDensity": 0.1473,
+  "waveFamily": "Chladni Harmonic",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "830 Hz"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 5
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 8
+    },
+    {
+      "trait_type": "Mode",
+      "value": "5 x 8"
+    },
+    {
+      "trait_type": "Secondary Mode",
+      "value": "1 x 1"
+    },
+    {
+      "trait_type": "Preset",
+      "value": "sacred-mesh"
+    },
+    {
+      "trait_type": "Resonance Preset",
+      "value": "Sacred Mesh"
+    },
+    {
+      "trait_type": "Pattern Family",
+      "value": "Temple Net"
+    },
+    {
+      "trait_type": "Visual Mode",
+      "value": "Diamond Mesh"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Solaris Bloom"
+    },
+    {
+      "trait_type": "Color Variant",
+      "value": "Solaris Bloom"
+    },
+    {
+      "trait_type": "Color Mutation",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Wave Distortion",
+      "value": "Mirror Tension"
+    },
+    {
+      "trait_type": "Symmetry Type",
+      "value": "Mandala Symmetry"
+    },
+    {
+      "trait_type": "Node Architecture",
+      "value": "Crossmesh Field"
+    },
+    {
+      "trait_type": "Harmonic Layer Count",
+      "value": 6
+    },
+    {
+      "trait_type": "Resonance Type",
+      "value": "Temple Net"
+    },
+    {
+      "trait_type": "Wave Family",
+      "value": "Chladni Harmonic"
+    },
+    {
+      "trait_type": "Plate Material",
+      "value": "Bronze Plate"
+    },
+    {
+      "trait_type": "Energy Class",
+      "value": "Low Energy"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Complexity Score",
+      "value": 42,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Symmetry Score",
+      "value": 91,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1473,
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "seed": "cymatica-genesis:62",
+    "seed_number": 344238739,
+    "generator": "Cymatics Engine Batch Generator v5.8",
+    "preset_id": "sacred-mesh",
+    "color_mutation": "Standard",
+    "color_variant": "Solaris Bloom",
+    "pattern_family": "Temple Net",
+    "wave_distortion": "Mirror Tension",
+    "symmetry_type": "Mandala Symmetry",
+    "node_architecture": "Crossmesh Field",
+    "harmonic_layer_count": 6,
+    "renderer": "structured-resonance-svg-v5.8"
+  }
+}

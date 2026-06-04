@@ -1,0 +1,77 @@
+{
+  "name": "Chladni Sand 254 Hz",
+  "description": "Classic Chladni sand resonance study generated from frequency, mode, nodal density, and gradient plate field.",
+  "image": "./images/254.svg",
+  "frequency": 254,
+  "modeN": 4,
+  "modeM": 5,
+  "patternName": "Twin Petal Grid",
+  "family": "Petal Grid",
+  "nodeDensity": 0.1035,
+  "nodeDensityBps": 1035,
+  "lineThickness": 1.36,
+  "lineThicknessBps": 136,
+  "rarityTier": 3,
+  "rarityName": "Epic",
+  "radialMix": 0.2549,
+  "threshold": 0.1173,
+  "renderer": "classic-chladni-sand-gallery",
+  "attributes": [
+    {
+      "trait_type": "Frequency",
+      "value": "254 Hz"
+    },
+    {
+      "trait_type": "Mode",
+      "value": "4×5"
+    },
+    {
+      "trait_type": "Mode N",
+      "value": 4
+    },
+    {
+      "trait_type": "Mode M",
+      "value": 5
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Twin Petal Grid"
+    },
+    {
+      "trait_type": "Family",
+      "value": "Petal Grid"
+    },
+    {
+      "trait_type": "Node Density",
+      "value": 0.1035
+    },
+    {
+      "trait_type": "Node Density BPS",
+      "value": 1035
+    },
+    {
+      "trait_type": "Line Thickness",
+      "value": 1.36
+    },
+    {
+      "trait_type": "Line Thickness BPS",
+      "value": 136
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Radial Mix",
+      "value": 0.255
+    },
+    {
+      "trait_type": "Threshold",
+      "value": 0.117
+    },
+    {
+      "trait_type": "Visual Style",
+      "value": "Chladni Sand"
+    }
+  ]
+}
